@@ -189,8 +189,7 @@ Kairos/
 ├── config.js
 ├── styles.css
 ├── README.md
-└── sql/
-    └── database.sql
+└── sql queries.txt
 ```
 
 > File names may differ depending on the current deployment/repository
