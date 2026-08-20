@@ -322,9 +322,6 @@ the project:
 
 No open-source license has been selected yet.
 
-If you intend to make Kairos open source, add an appropriate license
-here.
-
 ------------------------------------------------------------------------
 
 ### Kairos
